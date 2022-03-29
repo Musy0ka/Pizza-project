@@ -1,0 +1,74 @@
+body {
+    background:url(/back.jpg);
+    box-sizing: border-box;
+    background-position: right;
+}
+
+.name {
+    position: relative;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: left;
+    color:blue;
+    padding: 10px;
+    margin-left: 100px;
+   
+}
+
+.row{
+    margin-top: 200px;
+    margin-left: -100px;
+}
+
+.image img{
+    width: 400px;
+    height: 400px;
+}
+
+    
+dt {
+    font-size: 1.5rem;
+    margin-left: 10%;
+}
+
+dd {
+    font-size: 1.5rem;
+    margin-left: 15%;
+}
+   
+.clear {
+    color: bisque;
+}
+
+p {
+    text-align: center;
+    font-size: 1.5rem;
+    color: bisque;
+    float: right;
+    padding: 20px
+}
+
+.order-table {
+    margin-top: 10px;
+    width: 450px;
+    display: none;
+
+}
+
+#btnn {
+    display: none;
+}
+
+#delivery {
+    display: none;
+}
+
+th, td {
+    border: 1px solid yellow;
+}
+
+.container p{
+    color: black;
+}
+
